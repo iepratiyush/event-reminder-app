@@ -1,0 +1,6 @@
+# Virtual environment directories
+.venv/
+
+
+# Database files
+reminders.db
